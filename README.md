@@ -1,2 +1,8 @@
-# TextSummarizer
-Now a days there are large sets of data and text available on the internet and it takes a lot of time and effort to extract the useful bits of information out of them. Therefore i intended to create a Text Summarization program that will generate a 40% summary of the entered text for the user. This will save users a lot of time and will also give them an overview of what message a piece of text contains.
+Approach:-
+In order to achieve this i referred to a number of research papers published on this field and
+referred to the internet and tutorials for help with different modules and divided the program
+into steps.
+ Removing all punctuation, special characters and stop words from inserted text.
+ Use a mathematical model; that of a Feature Matrix to tokenize text.
+ Use the concept of cosine similarity to compare sentences and words of the document.
+ Display the generated summary to the user on console or GUI.
