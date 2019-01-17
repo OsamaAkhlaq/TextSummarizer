@@ -1,0 +1,2 @@
+# TextSummarizer
+Now a days there are large sets of data and text available on the internet and it takes a lot of time and effort to extract the useful bits of information out of them. Therefore i intended to create a Text Summarization program that will generate a 40% summary of the entered text for the user. This will save users a lot of time and will also give them an overview of what message a piece of text contains.
